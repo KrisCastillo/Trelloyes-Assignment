@@ -1,7 +1,5 @@
 # Trelloyes
 
-[View Live]()
-
 ## Assignment
 You are in a professional web development team as a React engineer. You're working on an app called Trelloyes. (It's very similar to an app you may be aware of called Trello.)
 
